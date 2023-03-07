@@ -26,7 +26,7 @@ For a full list of available functions, please refer to the header files provide
 ### 2. Include
 
 To use `libft` in you project:
-- just `#include <libft.h>`
+- just `#include "libft.h"`
 - compile you files with `-I /libft` 
 - compile `libft`
 - link you binary with `-L /libft -lft`
