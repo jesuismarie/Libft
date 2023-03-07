@@ -31,19 +31,6 @@ To use `libft` in you project:
 - compile `libft`
 - link you binary with `-L /libft -lft`
 
-## Contributing
-If you would like to contribute to the Libft library, please follow these steps:
-
-Fork the repository.
-
-Create a new branch for your changes.
-
-Make your changes and commit them.
-
-Push your changes to your fork.
-
-Create a pull request.
-
 ## License
 The Libft library is released under the MIT license. See the [LICENSE](https://github.com/jesuismarie/Libft/blob/main/MIT%20License) file for more information.
 
