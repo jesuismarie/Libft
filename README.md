@@ -2,9 +2,7 @@
 Libft is a project at 42 coding school that requires you to create your own library of useful functions that can be used in future projects. This library is called Libft, and it contains a collection of functions that you will implement from scratch.
 
 # Installation
-To use the Libft library, you first need to compile it using the Makefile provided. To do this, run the following command:
-make
-This will compile the library and create a file called `libft.a`. You can then link this library to your own projects.
+To use the Libft library, you first need to compile it using the Makefile provided. To do this, run the `make` command. This will compile the library and create a file called `libft.a`. You can then link this library to your own projects.
 
 # Usage
 The Libft library contains a collection of functions that are organized into different categories. Here are some examples of how to use some of these functions:
@@ -18,6 +16,23 @@ The Libft library contains a collection of functions that are organized into dif
 + Memory Management Functions: These functions can be used to manage memory allocation. To use them, include the libft.h header file and call the appropriate function. For example, to allocate memory, call the ft_malloc function.
 
 For a full list of available functions, please refer to the header files provided.
+
+# How to Use
+
+## 1. Compile
+
+- run `make` to compile `libft.a`
+- run `make clean` to delete tmp files after compile (only `libft.a` will be remain)
+- run `make fclean` to delete all files after compile
+- run `make re` to recompile all files
+
+## 2. Include
+
+To use `libft` in you project:
+- just `#include <libft.h>`
+- compile you files with `-I /libft` 
+- compile `libft`
+- link you binary with `-L /libft -lft`
 
 # Contributing
 If you would like to contribute to the Libft library, please follow these steps:
