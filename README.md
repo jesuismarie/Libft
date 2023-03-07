@@ -1,8 +1,7 @@
 # Libft
-Libft
 Libft is a project at 42 coding school that requires you to create your own library of useful functions that can be used in future projects. This library is called Libft, and it contains a collection of functions that you will implement from scratch.
 
-Usage
+# Usage
 The Libft library contains a collection of functions that are organized into different categories. Here are some examples of how to use some of these functions:
 
 Standard Library Functions: These functions are similar to the ones in the standard C library. To use them, include the appropriate header file and call the function. For example, to use the strlen function, include the string.h header file and call the ft_strlen function.
@@ -15,7 +14,7 @@ Memory Management Functions: These functions can be used to manage memory alloca
 
 For a full list of available functions, please refer to the header files provided.
 
-Contributing
+# Contributing
 If you would like to contribute to the Libft library, please follow these steps:
 
 Fork the repository.
@@ -28,8 +27,5 @@ Push your changes to your fork.
 
 Create a pull request.
 
-License
-The Libft library is released under the MIT license. See the LICENSE file for more information.
-
-Credits
+# Credits
 The Libft library was created by mnazarya. Special thanks to the creators of the 42 coding school curriculum and community for their support.
