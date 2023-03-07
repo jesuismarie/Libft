@@ -45,7 +45,7 @@ Push your changes to your fork.
 Create a pull request.
 
 ## License
-The Libft library is released under the MIT license. See the [LICENSE]() file for more information.
+The Libft library is released under the MIT license. See the [LICENSE](https://github.com/jesuismarie/Libft/blob/main/MIT%20License) file for more information.
 
 ## Credits
 The Libft library was created by mnazarya. Special thanks to the creators of the 42 coding school curriculum and community for their support.
