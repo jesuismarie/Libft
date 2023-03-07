@@ -4,7 +4,7 @@ Libft is a project at 42 coding school that requires you to create your own libr
 # Installation
 To use the Libft library, you first need to compile it using the Makefile provided. To do this, run the following command:
 make
-This will compile the library and create a file called libft.a. You can then link this library to your own projects.
+This will compile the library and create a file called <sub>libft.a</sub>. You can then link this library to your own projects.
 
 # Usage
 The Libft library contains a collection of functions that are organized into different categories. Here are some examples of how to use some of these functions:
